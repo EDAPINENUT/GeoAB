@@ -52,4 +52,4 @@ python eval.py --eval_dir H3_refine --run 1
 python eval.py --eval_dir H3_design
 ```
 
-We give the pretrained model in `./results/cdrh3/H3_refine/checkpoint/best.ckpt`, `/linhaitao/GeoAB/results/cdrh3/H3_init/checkpoint/best.ckpt` and `./results/cdrh3/H3_design/checkpoint/best.ckpt`. You can evaluate the pretrained ones directly using our pretrained models.
+We give the pretrained model in `./results/cdrh3/H3_refine/checkpoint/best.ckpt`. You can evaluate the pretrained ones directly using our pretrained models. For other two models, we will upload them soon because they are larger than Github allows to upload.
