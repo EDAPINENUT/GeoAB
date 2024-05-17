@@ -27,7 +27,7 @@ Please follow the data preparation scripts in DyMean, which leads the raw data s
 The processed data can be downloaded from google drive https://drive.google.com/drive/folders/1pNsoGt0gDIJR9EMmmp2pItjZDuLZI3gg. 
 After downloading `all_data.zip`, unzip it and the processed datasets can be obatained.
 
-## Train and evaluate GeoAB-Refiner
+## Train and evaluate GeoAB-Designer
 Run the following command for training:
 
 ```
