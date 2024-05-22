@@ -63,7 +63,7 @@ Please cite the paper if the repository or the paper is helpful to you, as follo
 @article {Lin2024.05.15.594274,
 	author = {#Lin, Haitao and Wu, Lirong and Huang, Yufei and Liu, Yunfan and Zhang, Odin and Zhou, Yuanqing and Sun, Rui and Li, Stan Z.},
 	title = {GeoAB: Towards Realistic Antibody Design and Reliable Affinity Maturation},
-    year = {2024},
+    	year = {2024},
 	booktitle={International Conference on Machine Learning},
 	URL = {https://www.biorxiv.org/content/early/2024/05/17/2024.05.15.594274},
 	eprint = {https://www.biorxiv.org/content/early/2024/05/17/2024.05.15.594274.full.pdf}
