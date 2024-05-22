@@ -1,4 +1,5 @@
-# Installation
+# GeoAB:  Towards Realistic Antibody Design and Reliable Affinity Maturation
+## Installation
 Install requirements
 
 ```
@@ -6,7 +7,7 @@ conda create -n geoab python==3.9
 conda activate geoab
 pip install -r requirements.txt
 ```
-# Dataset
+## Dataset
 Please follow the data preparation scripts in DyMean, which leads the raw data set as 
 ```
 - all_data
@@ -53,11 +54,19 @@ python eval.py --eval_dir H3_design
 We give the pretrained model in `cdrh3.zip`, which can be downloaded from https://drive.google.com/drive/folders/1pNsoGt0gDIJR9EMmmp2pItjZDuLZI3gg. You can evaluate the results directly using our pretrained models.
 
 
-# DDG Prediction
+## DDG Prediction
 For DDG prediction part, our model will be updated through a platform, which will be online soon.
 
 # Citation
 Please cite the paper if the repository or the paper is helpful to you, as following
 ```
-TODO
+@article {Lin2024.05.15.594274,
+	author = {#Lin, Haitao and Wu, Lirong and Huang, Yufei and Liu, Yunfan and Zhang, Odin and Zhou, Yuanqing and Sun, Rui and Li, Stan Z.},
+	title = {GeoAB: Towards Realistic Antibody Design and Reliable Affinity Maturation},
+    year = {2024},
+	booktitle={International Conference on Machine Learning},
+	URL = {https://www.biorxiv.org/content/early/2024/05/17/2024.05.15.594274},
+	eprint = {https://www.biorxiv.org/content/early/2024/05/17/2024.05.15.594274.full.pdf}
+}
+
 ```
