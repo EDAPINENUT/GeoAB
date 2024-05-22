@@ -58,10 +58,10 @@ We give the pretrained model in `cdrh3.zip`, which can be downloaded from https:
 For DDG prediction part, our model will be updated through a platform, which will be online soon.
 
 # Citation
-Please cite the paper if the repository or the paper is helpful to you, as following
+Please cite the paper if the repository or the paper is helpful to you, as the following
 ```
-@article {Lin2024.05.15.594274,
-	author = {#Lin, Haitao and Wu, Lirong and Huang, Yufei and Liu, Yunfan and Zhang, Odin and Zhou, Yuanqing and Sun, Rui and Li, Stan Z.},
+@article {lin2024geoab,
+	author = {Lin, Haitao and Wu, Lirong and Huang, Yufei and Liu, Yunfan and Zhang, Odin and Zhou, Yuanqing and Sun, Rui and Li, Stan Z.},
 	title = {GeoAB: Towards Realistic Antibody Design and Reliable Affinity Maturation},
     	year = {2024},
 	booktitle={International Conference on Machine Learning},
